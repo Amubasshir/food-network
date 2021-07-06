@@ -1,0 +1,47 @@
+body{
+ font-family: 'Montserrat', sans-serif;
+ padding: 0%;
+ margin: 0%;
+}
+.first-top-baner{
+ background-image: url(images/sample4.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+text-align: center;
+}
+h1{
+ font-size: 50px;
+ font-weight: 700;
+ color: white;
+}
+h1 span{
+ color: orange;
+}
+.half-width{
+ float: left;
+ width: 40%;
+ margin-left: 10%;
+ align-items: center;
+}
+.new{
+ padding-top: 10%;
+
+}
+.half-width img{
+ width: 100%;
+}
+h2{
+ font-size: 40px;
+ line-height: 25px;
+}
+h2 span{
+ color: orange;
+}
+.order-button{
+ text-decoration: none;
+ background: linear-gradient(45deg, lightsalmon, tomato);
+ padding: 10px 40px;
+ border-radius: 30px;
+ color: white;
+ font-weight: 400;
+}
